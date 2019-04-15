@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"halo jakarta!"<<endl;
+    string halo="halo jakarta!";
+    cout<< halo <<endl;
     return 0;
 }
